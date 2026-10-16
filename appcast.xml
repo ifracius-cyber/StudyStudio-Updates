@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>Study Studio updates</title>
 <link>https://github.com/ifracius-cyber/StudyStudio-Updates</link>
 <description>Signed updates for Study Studio for Mac</description>
-<item>
+<item><title>Study Studio 3.19</title><pubDate>Fri, 16 Oct 2026 05:03:48 +0000</pubDate><sparkle:version>32</sparkle:version><sparkle:shortVersionString>3.19</sparkle:shortVersionString><sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion><description>Exact-definition courses now include every clearly marked term-definition pair found in readable source text.</description><enclosure url="https://raw.githubusercontent.com/ifracius-cyber/StudyStudio-Updates/main/downloads/Study-Studio-3.19.zip" type="application/octet-stream" length="26030352" sparkle:edSignature="IHmzLTRi1CcZ/oA2p5+xH8wn80vas7Z0SEJ1DDaCoLmD5R7KJpVv7qpg/KmrQILa8k81XdyPqx0hMdH6V9qhCA==" /></item><item>
 <title>Study Studio 3.18</title>
 <pubDate>Fri, 16 Oct 2026 05:01:39 +0000</pubDate>
 <sparkle:version>31</sparkle:version>
